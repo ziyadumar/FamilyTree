@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalathingal", "Kalathingal\Kalathingal.csproj", "{827BD4D9-4E33-49B6-AB84-D8606C30D91F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalathingal.FamilyTree", "Modules\Kalathingal.FamilyTree\Kalathingal.FamilyTree.csproj", "{ADB4D9C3-371C-49B1-B4C3-5097875FAA7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalathingal.Configuration", "Configuration\Kalathingal.Configuration\Kalathingal.Configuration.csproj", "{BDC476FD-0A8B-47E5-A254-6053D6D301E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{827BD4D9-4E33-49B6-AB84-D8606C30D91F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{827BD4D9-4E33-49B6-AB84-D8606C30D91F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{827BD4D9-4E33-49B6-AB84-D8606C30D91F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADB4D9C3-371C-49B1-B4C3-5097875FAA7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB4D9C3-371C-49B1-B4C3-5097875FAA7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB4D9C3-371C-49B1-B4C3-5097875FAA7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB4D9C3-371C-49B1-B4C3-5097875FAA7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC476FD-0A8B-47E5-A254-6053D6D301E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC476FD-0A8B-47E5-A254-6053D6D301E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC476FD-0A8B-47E5-A254-6053D6D301E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC476FD-0A8B-47E5-A254-6053D6D301E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
