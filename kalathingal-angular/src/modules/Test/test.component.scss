@@ -1,0 +1,23 @@
+body {
+    font: 10px sans-serif;
+    border-color: #aaa;
+}
+.link {
+    fill: none;
+    stroke: #000;
+}
+.sibling {
+    fill: none;
+    stroke: blue;
+}
+.border {
+    fill: none;
+    shape-rendering: crispEdges;
+    stroke: #aaa;
+}
+.node {
+    border-radius: 2rem;
+    stroke: grey;
+    fill:white;
+    text-align: center;
+}
